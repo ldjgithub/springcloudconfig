@@ -14,4 +14,4 @@ management:
   security:
     #关闭安全验证，否则访问refresh端点时会提示权限不足
     enabled: false
-name: xiaohei
+name: '{cipher}AQA/vHRZ8G0yRf3fuOOk1s9VBALQpYXP1xDmtNFx6Mr0Vy+WfaF2Lv0n+8gzm91hvPFvz1tWFGNx5e8X96nwtG3SJAYjbwQiMNq8HyCAZy4gcxgLaSVZVjI6XOU5CsZV8DBACaSBQoo1ag2Ntf89QqvmQwVubaySUc+8Tp/v3fAOfh9yxqrBJQUFIakcpB4CqTFZnpl0uecIJbnGIbNbiL5P8yzHAYZfvZjc9mvQz+HmTq6g55n50AYXHyhQpgKHbyIyJ1N0X3Jb8wms86sS/qSGZofnJcL7ZQf80xUzwjFlVmuGONfI3hzbjb/0IX+rx5T+22wpZwHXOOrrmmjPcWL/FEcHfdVTthXp9x6PT6lC8FXjbVKYX1LTqAgt8dbMaaw='
